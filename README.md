@@ -18,7 +18,7 @@ This repository provides the official implementation of **Data Agent**, an end-t
 The overall framework of **Data Agent** is shown below.
 
 <p align="center">
-  <img src="assets/Fig2.png" width="75%">
+  <img src="asset/Fig2.png" width="75%">
 </p>
 
 <p align="center">
